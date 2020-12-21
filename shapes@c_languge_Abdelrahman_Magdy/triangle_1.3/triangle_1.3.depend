@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580180823 source:e:\meca\shapes@c_languge\triangle_1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+
